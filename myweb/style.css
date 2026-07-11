@@ -1,0 +1,14 @@
+.main{
+    margin-top: 100px;
+    display: block;
+}
+
+.logo{
+    display: block;
+    width: 300px;
+}
+
+.search-buttons{
+    width: 400px;
+    display: block;
+}
